@@ -1,0 +1,42 @@
+h1,h5
+{
+  position: absolute;
+}
+h1
+{
+  left:77%;
+  top:0%;
+  font-size: 35px;
+}
+h5
+{
+  left:80%;
+  top:7%;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+#final
+{
+  position: absolute;
+  left:80%;
+  top:50%;
+  font-size:50px;
+}
+
+#status
+{
+  position: absolute;
+  left:80%;
+  top:30%;
+  font-size:35px;
+}
+
+#refresh
+{
+  position: absolute;
+  left:80%;
+  top:70%;
+  font-size:30px;
+  display: none;
+}
