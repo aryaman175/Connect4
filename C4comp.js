@@ -18,12 +18,12 @@ function aiPlay()
   globalDepth =10;
  else
   if(moveCount<20)
-  globalDepth =12;
+  globalDepth =11;
  else
  if(moveCount<25)
- globalDepth =15;
+ globalDepth =13;
  else
- globalDepth =17;
+ globalDepth =15;
 
 
    if (moveCount>5)
