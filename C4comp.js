@@ -333,7 +333,6 @@ function minimax(maximising,alpha,beta,depth,heuristic,isFirst,initial)
          minH = Math.min(minH,thisH);
          if(i==openCells.length-1)
          {
-          console.log(minH)
           return heuristic + minH;
         }
           else
